@@ -1,3 +1,6 @@
+//Fergal O'Shea
+//12-2016
+
 #include <iostream>
 #include <string>
 #include <Windows.h>
